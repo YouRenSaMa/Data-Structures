@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>//递归函数的调用
 
 int step(int n){
     if(n==1||n==2){
