@@ -1,0 +1,3 @@
+"D:\C\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\table_search.dir/objects.a
+D:\C\mingw64\bin\ar.exe cr CMakeFiles\table_search.dir/objects.a @CMakeFiles\table_search.dir\objects1.rsp
+D:\C\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\table_search.dir/objects.a -Wl,--no-whole-archive -o table_search.exe -Wl,--out-implib,libtable_search.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\table_search.dir\linklibs.rsp
